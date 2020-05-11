@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Arial";
+    color: #333;
+    background-color: #ccc;
+    margin: 1em 20%;
+}
+h1{
+    color: #333;
+    background-color: transparent;
+}
+a{
+    color: #c60;
+    background-color: transparent;
+    font-weight: 700;
+    text-decoration: none;
+}
+ul{
+    padding: 0;
+}
+li{
+    float: left;
+    padding: 1em;
+    list-style: none;
+}
+img{
+    display: block;
+    clear: both;
+    width: 480px;
+    height: 320px;
+}
